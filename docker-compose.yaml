@@ -1,0 +1,10 @@
+services:
+  apple-app-store-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — only for high-volume bursts that hit Apple's per-IP limit.
+      # - APPLE_APP_STORE_PROXY=http://user:pass@host:port

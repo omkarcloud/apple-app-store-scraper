@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0">
+  <dict>
+    <key>title</key>
+    <string>Suggestions</string>
+    <key>hints</key>
+    <array>
+      <dict>
+        <key>term</key>
+        <string>photo editor</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photo%20editor</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photoshop</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photoshop</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photo roulette</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photo%20roulette</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photo collage</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photo%20collage</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photo circle</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photo%20circle</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photomath</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photomath</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photos</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photos</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photo cleaner</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photo%20cleaner</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photo collage studio</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photo%20collage%20studio</string>
+      </dict>
+      <dict>
+        <key>term</key>
+        <string>photo stamp cutout - stickers</string>
+        <key>url</key>
+        <string>https://search.itunes.apple.com/WebObjects/MZStore.woa/wa/search?clientApplication=Software&amp;src=hint&amp;submit=edit&amp;term=photo%20stamp%20cutout%20-%20stickers</string>
+      </dict>
+    </array>
+  </dict>
+</plist>
